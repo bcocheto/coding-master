@@ -1,0 +1,10 @@
+[
+    {
+        "family": "Consolas",
+        "fonts": [
+            {
+                "asset": "fonts/consolas.ttf"
+            }
+        ]
+    }
+]
